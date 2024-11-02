@@ -23,6 +23,7 @@ DevOps es una metodología que combina el desarrollo de software (Dev) y las ope
 </p> 
 
 ## Referencias
-[Volver a la Presentación](README.md)  
 [Volver a Filosofía](Filosofía_devops.md)  
-[Ir a Oferta de empleo](Oferta_empleo.md) 
+[Ir a Oferta de empleo](Oferta_empleo.md)  
+[Ir a la Presentación](README.md)  
+
