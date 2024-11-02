@@ -4,6 +4,8 @@
   <img src="https://github.com/pericoflow/Devops/blob/main/img/Devops4.png">
 </p> 
 
+## Descripción de la Oferta
+
 En MTP nos gustaría incorporar a un/a profesional DevOps con sólida experiencia para incorporarse en un proyecto estable y nuevo de la Administración Pública.  
 
 Buscamos perfiles con 3 y 5 años de experiencia demostrable. Dentro de los requisitos imprescindibles se encuentra tener una titulación homologada en España ya sea Titulación universitaria Superior (Ingeniero, Licenciado, Grado, o equivalente) o Ingeniería Técnica.  
