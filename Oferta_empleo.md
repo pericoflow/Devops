@@ -40,5 +40,5 @@ Contamos con el distintivo 'Igualdad en la Empresa', reconocimiento por sus pol�
 
 ## Referencias  
 [Volver a Herramientas](Herramientas_devops.md)  
-[Volver a Filosofía](Filosofía_devops.md)   
-[Volver a la Presentación](README.md)  
+[Ir a Filosofía](Filosofía_devops.md)   
+[Ir a la Presentación](README.md)  
