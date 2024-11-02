@@ -17,3 +17,8 @@ DevOps es una metodología que combina el desarrollo de software (Dev) y las ope
 | MongoDB | Base de datos NoSQL | Almacena datos estructurados y no estructurados |
 | Kubernetes | Plataforma de orquestación de contenedores | Gestiona y escala contenedores de Docker |
 | Ansible | Herramienta de automatización | Configura y gestiona la infraestructura |
+
+## Referencias
+[Volver](README.md)  
+[Volver a Filosofía](Filosofía_devops.md)  
+[Ir a Oferta de empleo](Oferta_empleo.md) 
