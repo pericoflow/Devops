@@ -9,9 +9,12 @@ Imagina que estás construyendo una torre de bloques. Los desarrolladores son co
 >- **Entrega continua**: Lanzar nuevas versiones de software de forma más frecuente y segura, para que los usuarios puedan disfrutar de las mejoras más rápido.  
 >- **Mejora continua**: Buscar siempre formas de hacer las cosas mejor, aprendiendo de los errores y adaptándose a los cambios.
 
-## ¿Cómo funciona en la práctica?
->- **Integración continua**: El código se combina y se prueban automáticamente cada vez que alguien hace un cambio.
->- **Entrega continua**: Las aplicaciones se despliegan en producción de forma automatizada y frecuente.
->- **Infraestructura como código**: Los sistemas se configuran y gestionan a través de código, lo que facilita la automatización y la reproducibilidad.
+## ¿Cómo funciona en la práctica?  
+>- **Integración continua**: El código se combina y se prueban automáticamente cada vez que alguien hace un cambio.  
+>- **Entrega continua**: Las aplicaciones se despliegan en producción de forma automatizada y frecuente.  
+>- **Infraestructura como código**: Los sistemas se configuran y gestionan a través de código, lo que facilita la automatización y la reproducibilidad.  
 >- **Monitoreo continuo**: Se vigila constantemente el rendimiento de las aplicaciones para detectar y solucionar problemas rápidamente.
+
+## Conclusión:  
+DevOps es una forma de trabajar que ayuda a los equipos a crear software de mejor calidad y entregarlo más rápido. Es como construir una torre de bloques más alta y más fuerte, trabajando todos juntos y aprendiendo de los errores.
 
