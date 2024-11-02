@@ -1,9 +1,11 @@
 <h1 align="center"> HERRAMIENTAS </h1>  
 
 ## ¿Qué son las herramientas de DevOps?  
-DevOps es una metodología que combina el desarrollo de software (Dev) y las operaciones de tecnología de la información (Ops) para mejorar la colaboración y la productividad a través de la automatización de procesos en el ciclo de vida del desarrollo de software. 
+DevOps es una metodología que combina el desarrollo de software (Dev) y las operaciones de tecnología de la información (Ops) para mejorar la colaboración y la productividad a través de la automatización de procesos en el ciclo de vida del desarrollo de software.  
 
->A continuación, se presentan algunas de las herramientas más populares utilizadas en proyectos de DevOps:  
+```
+A continuación, se presentan algunas de las herramientas más populares utilizadas en proyectos de DevOps:  
+```
 
 | Herramienta | Descripción | Uso en el proyecto |
 |---|---|---|
