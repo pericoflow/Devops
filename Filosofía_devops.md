@@ -7,4 +7,11 @@ Imagina que estás construyendo una torre de bloques. Los desarrolladores son co
 - **Colaboración**: Que los equipos trabajen juntos desde el principio hasta el final de un proyecto, conocimientos compartiendo y responsabilidades.  
 - **Automatización**: Usar herramientas para realizar tareas repetitivas de forma automática, como pruebas o despliegues, para ahorrar tiempo y reducir errores.  
 - **Entrega continua**: Lanzar nuevas versiones de software de forma más frecuente y segura, para que los usuarios puedan disfrutar de las mejoras más rápido.  
-- **Mejora continua**: Buscar siempre formas de hacer las cosas mejor, aprendiendo de los errores y adaptándose a los cambios.  
+- **Mejora continua**: Buscar siempre formas de hacer las cosas mejor, aprendiendo de los errores y adaptándose a los cambios.
+
+## ¿Cómo funciona en la práctica?
+- **Integración continua**: El código se combina y se prueban automáticamente cada vez que alguien hace un cambio.
+- **Entrega continua**: Las aplicaciones se despliegan en producción de forma automatizada y frecuente.
+- **Infraestructura como código**: Los sistemas se configuran y gestionan a través de código, lo que facilita la automatización y la reproducibilidad.
+- **Monitoreo continuo**: Se vigila constantemente el rendimiento de las aplicaciones para detectar y solucionar problemas rápidamente.
+
