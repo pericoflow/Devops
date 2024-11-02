@@ -1,7 +1,5 @@
 <h1 align="center"> OFERTA DE EMPLEO </h1>  
 
-## Descripción de la Oferta
-
 <p align="center">
   <img src="https://github.com/pericoflow/Devops/blob/main/img/Devops4.png">
 </p> 
