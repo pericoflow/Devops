@@ -19,7 +19,7 @@ DevOps es una metodología que combina el desarrollo de software (Dev) y las ope
 | Ansible | Herramienta de automatización | Configura y gestiona la infraestructura |
 
 <p align="center">
-  <img src="https://github.com/pericoflow/Devops/blob/main/img/Devops3.png">
+  <img src="https://github.com/pericoflow/Devops/blob/main/img/Devops3.jpg">
 </p> 
 
 ## Referencias
