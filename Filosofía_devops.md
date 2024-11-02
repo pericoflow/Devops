@@ -18,3 +18,6 @@ Imagina que estás construyendo una torre de bloques. Los desarrolladores son co
 ## Conclusión:  
 DevOps es una forma de trabajar que ayuda a los equipos a crear software de mejor calidad y entregarlo más rápido. Es como construir una torre de bloques más alta y más fuerte, trabajando todos juntos y aprendiendo de los errores.
 
+<p align="center">
+  <img src="https://github.com/pericoflow/Devops/blob/main/img/Devops2.png">
+</p>
