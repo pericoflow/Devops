@@ -20,4 +20,9 @@ DevOps es una forma de trabajar que ayuda a los equipos a crear software de mejo
 
 <p align="center">
   <img src="https://github.com/pericoflow/Devops/blob/main/img/Devops2.png">
-</p>
+</p>  
+
+## Referencias
+[Volver](README.md)
+[Herramientas](Herramientas_devops.md)
+[Oferta de empleo](Oferta_empleo.md)
