@@ -1,7 +1,7 @@
  <h1 align="center"> FILOSOFÍA DEVOPS </h1>  
 
 ## ¿Por qué es importante?  
-Imagina que estás construyendo una torre de bloques. Los desarrolladores son como los arquitectos y constructores, diseñando y levantando la torre lo más rápido posible. Pero, si no hay nadie que revise que los bloques estén bien colocados y que la torre sea estable, ¡podría derrumbarse! Los equipos de operaciones son como los ingenieros civiles, asegurando que la construcción sea sólida y segura.  
+*Imagina que estás construyendo una torre de bloques. Los desarrolladores son como los arquitectos y constructores, diseñando y levantando la torre lo más rápido posible. Pero, si no hay nadie que revise que los bloques estén bien colocados y que la torre sea estable, ¡podría derrumbarse! Los equipos de operaciones son como los ingenieros civiles, asegurando que la construcción sea sólida y segura.*  
 
 ## DevOps busca:  
 >- **Colaboración**: Que los equipos trabajen juntos desde el principio hasta el final de un proyecto, conocimientos compartiendo y responsabilidades.  
