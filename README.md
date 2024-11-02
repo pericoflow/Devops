@@ -1,4 +1,4 @@
-# Devops  
+# DevOps  
 
 DevOps es un acrónimo inglés de development -desarrollo- y operations -operaciones- se refiere a un movimiento cultural y profesional centrado en la comunicación, colaboración e integración entre los desarrolladores de software y los profesionales en las operaciones de IT.
 
