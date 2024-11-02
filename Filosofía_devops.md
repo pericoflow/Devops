@@ -24,5 +24,5 @@ DevOps es una forma de trabajar que ayuda a los equipos a crear software de mejo
 
 ## Referencias
 [Volver](README.md)  
-[Herramientas](Herramientas_devops.md)  
-[Oferta de empleo](Oferta_empleo.md)  
+[Ir a Herramientas](Herramientas_devops.md)  
+[Ir a Oferta de empleo](Oferta_empleo.md)  
