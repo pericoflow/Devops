@@ -3,7 +3,7 @@
 ## Descripción de la Oferta
 
 <p align="center">
-  <img src="https://github.com/pericoflow/Devops/blob/main/img/Devops3.jpg">
+  <img src="https://github.com/pericoflow/Devops/blob/main/img/Devops4.png">
 </p> 
 
 En MTP nos gustaría incorporar a un/a profesional DevOps con sólida experiencia para incorporarse en un proyecto estable y nuevo de la Administración Pública.  
