@@ -4,7 +4,7 @@
   <img src="https://github.com/pericoflow/Devops/blob/main/img/Devops4.png">
 </p> 
 
-## Descripción de la Oferta
+## Descripción de la Oferta  
 
 En MTP nos gustaría incorporar a un/a profesional DevOps con sólida experiencia para incorporarse en un proyecto estable y nuevo de la Administración Pública.  
 
@@ -37,3 +37,8 @@ Si buscas una oportunidad que combine innovación, estabilidad y desafíos técn
 
 MTP es una compañía líder en Servicios de Aseguramiento Digital que cuenta con 25 años de experiencia y con capacidad para operar a nivel global.  
 Contamos con el distintivo 'Igualdad en la Empresa', reconocimiento por sus políticas de igualdad de trato y de oportunidades, concedido por el Ministerio de Igualdad.  
+
+## Referencias  
+[Volver a Herramientas](Herramientas_devops.md)  
+[Volver a Filosofía](Filosofía_devops.md)   
+[Volver a la Presentación](README.md)  
