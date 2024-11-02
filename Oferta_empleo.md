@@ -1,7 +1,7 @@
 <h1 align="center"> OFERTA DE EMPLEO </h1>  
 
  ## Descripción de la Oferta
- ~~~~
+
 En MTP nos gustaría incorporar a un/a profesional DevOps con sólida experiencia para incorporarse en un proyecto estable y nuevo de la Administración Pública.  
 
 Buscamos perfiles con 3 y 5 años de experiencia demostrable. Dentro de los requisitos imprescindibles se encuentra tener una titulación homologada en España ya sea Titulación universitaria Superior (Ingeniero, Licenciado, Grado, o equivalente) o Ingeniería Técnica.  
@@ -33,4 +33,3 @@ Como empleado/a MTP, tendrás:
 
 MTP es una compañía líder en Servicios de Aseguramiento Digital que cuenta con 25 años de experiencia y con capacidad para operar a nivel global.  
 Contamos con el distintivo 'Igualdad en la Empresa', reconocimiento por sus políticas de igualdad de trato y de oportunidades, concedido por el Ministerio de Igualdad.  
-~~~~
